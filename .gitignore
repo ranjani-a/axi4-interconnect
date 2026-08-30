@@ -1,0 +1,37 @@
+# Simulation / compilation outputs
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+*.vpd
+*.fsdb
+
+# Verilator
+obj_dir/
+coverage.dat
+*.prof
+
+# Vivado
+.vivado/
+vivado*.log
+vivado*.jou
+*.xpr
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Questa / ModelSim
+modelsim.ini
+*.mpf
+*.mti
+*.ucdb
+
+# OS / editor files
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
