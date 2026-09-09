@@ -23,4 +23,4 @@ endmodule
 //this module specifies the number of slaves and confirms whether the slave is mapped to the address or not. It also provides the slave index for the given address.
 //address
 
-//CHECK LOGIC WITH DIFFERENT NUMBER OF SLAVES
+
